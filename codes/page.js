@@ -39,3 +39,6 @@ function ajouter_avis(){
     }
    
 }
+//function ouvrir(){
+//    window.open("codes/index.html", "_blank");
+//}
